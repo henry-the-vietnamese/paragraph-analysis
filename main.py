@@ -31,8 +31,12 @@ print('\nNumber of sentences =', total.count('.'))
 print(f'\nCounts of vowels -', end = '')
 
 # Create a list containing the counts of each vowels
-vowels = [total.count('a'), total.count('e'), total.count('i'), \
-          total.count('o'), total.count('u')]
+vowels = [total.count('a'),
+          total.count('e'),
+          total.count('i'),
+          total.count('o'),
+          total.count('u'),
+]
 
 for i in range(len(vowels)):
     print()

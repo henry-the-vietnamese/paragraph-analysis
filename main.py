@@ -1,9 +1,11 @@
 #
 # File:         main.py
 # Author:       Tan Duc Mai
-# Email ID:     tan.duc.work@gmail.com
-# Date:         22/9/2021
-# Description:  Analyse a user input paragraph for sentences and words.
+# Email:        tan.duc.work@gmail.com
+# Date:         21/7/2021
+# Description:  Introduce the user to the game, asking them to choose level.
+#   I hereby declare that I completed this work without any improper help
+#   from a third party and without using any aids other than those cited.
 #
 
 # Set the initial values

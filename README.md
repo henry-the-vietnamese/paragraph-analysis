@@ -1,4 +1,4 @@
-# Analyse an inputted paragraph.
+# Analyse an inputted paragraph
  <p>To begin, I use the input() function to prompt the user for some text. I then create a _count_ and a _total_ list. The former is a list containing five vowels, a space (' '), and a full stop ('.'). The latter is an empty list created for later appendage.</p>
 <p>I iterate through the inputted text (which is formatted to be all in lower case for easier comparison) using a for loop. During the iteration process, whenever it encounters the character that is exactly the same as one of the elements of the count list, that character will be appended to the total list.</p>
 <p>After the iteration process, in order to count the number of words of the inputted text, we could count the number of spaces (' ') in the total list, plus 1. The reason for this is that the number of words is equal to the number of spaces plus 1. For example, 'Hello World has two words, equalling to one space plus 1.</p>
